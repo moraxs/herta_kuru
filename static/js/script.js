@@ -42,9 +42,9 @@ var LANGUAGES = {
             "audio/cn/要坏掉了.mp3"
         ],
         texts: {
-            "page-title": "黑塔转圈圈",
-            "doc-title": "咕噜噜~",
-            "page-descriptions": "给黑塔酱写的小网站，对，就是那个<del>烦人的</del>最可爱的《崩坏：星穹铁道》角色！",
+            "page-title": "喵喵喵",
+            "doc-title": "喵~",
+            "page-descriptions": "给绮良良写的小网站，对，就是那个<del>烦人的</del>最可爱的知名快递公司"狛荷屋"的快递员！",
             "counter-descriptions": ["黑塔已经咕噜噜~了", "黑塔已经转了"],
             "counter-unit": ["次", "次圈圈"],
             "counter-button": ["转圈圈~", "咕噜噜！"],
